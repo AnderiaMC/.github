@@ -30,7 +30,6 @@ Serveur minecraft mini-jeux compétitif
 | `Poseidon` | `Finis` | Gestion des données joueurs |
 | `Zeus` | `A faire` | API de creation de jeux |
 | `Hades` | `A faire` | Gestion des punitions joueurs |
-| `ARank` | `En cours` | Gestion des grades joueurs |
 | `ACore` | `A faire` | Coeur des serveurs |
 | `AHub` | `A faire` | Hub des serveurs |
 
