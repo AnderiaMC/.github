@@ -31,7 +31,7 @@ Serveur minecraft mini-jeux compétitif
 | `Zeus` | `A faire` | API de creation de jeux |
 | `Hades` | `A faire` | Gestion des punitions joueurs |
 | `ACore` | `A faire` | Coeur des serveurs |
-| `AHub` | `A faire` | Hub des serveurs |
+| `AHub` | `En cours` | Hub des serveurs |
 
 #### Jeux
 
