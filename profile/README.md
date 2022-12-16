@@ -28,7 +28,7 @@ Serveur minecraft mini-jeux compétitif
 | :-------- | :------- | :------------------------- |
 | `Kraken` | `Finis` | Gestion des serveurs de jeux |
 | `Poseidon` | `Finis` | Gestion des données joueurs |
-| `Zeus` | `A faire` | API de creation de jeux |
+| `Zeus` | `En cours` | API de creation de jeux |
 | `Hades` | `A faire` | Gestion des punitions joueurs |
 | `ACore` | `A faire` | Coeur des serveurs |
 | `AHub` | `En cours` | Hub des serveurs |
@@ -39,7 +39,7 @@ Serveur minecraft mini-jeux compétitif
 | :-------- | :------- | :-------------------------------- |
 | `UHC Champion`      | `A Faire` | [@NA2SIME](https://github.com/na2sime) |
 | `UHC Meetup`      | `A Faire` | [@NA2SIME](https://github.com/na2sime) |
-| `Gladiator`      | `A Faire` | [@NA2SIME](https://github.com/na2sime) |
+| `Gladiator`      | `En cours` | [@NA2SIME](https://github.com/na2sime) |
 | `HungerGame`      | `A Faire` | [@NA2SIME](https://github.com/na2sime) |
 | `TeamFightTactic`      | `A Faire` | [@NA2SIME](https://github.com/na2sime) |
 
